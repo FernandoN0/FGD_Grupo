@@ -4,5 +4,13 @@
 -Git
 -Github
 -Tutoria
+<<<<<<< HEAD
 
 -Pedro Blanco
+=======
+<<<<<<< HEAD
+-Gerard Orobitg
+=======
+-Agnes Plans
+>>>>>>> fb1969a026d10a7a05f6bebe4b265067b9a600d8
+>>>>>>> 744197b4a2646d7b5c488d56c6f00a157f6b105e
