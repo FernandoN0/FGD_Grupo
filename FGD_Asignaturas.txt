@@ -4,4 +4,8 @@
 -Git
 -Github
 -Tutoria
+<<<<<<< HEAD
 -Gerard Orobitg
+=======
+-Agnes Plans
+>>>>>>> fb1969a026d10a7a05f6bebe4b265067b9a600d8
